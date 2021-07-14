@@ -1,5 +1,5 @@
-Record=TopLevelDocument|FileName=cover.SchDoc
-Record=SheetSymbol|SourceDocument=cover.SchDoc|Designator=NODE|SchDesignator=NODE|FileName=node.SchDoc|SymbolType=Normal|RawFileName=node.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=node.SchDoc|Designator=ETH_DS|SchDesignator=ETH_DS|FileName=ethernet.SchDoc|SymbolType=Normal|RawFileName=ethernet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=node.SchDoc|Designator=ETH_US|SchDesignator=ETH_US|FileName=ethernet.SchDoc|SymbolType=Normal|RawFileName=ethernet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=node.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=powersupply.SchDoc|SymbolType=Normal|RawFileName=powersupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=cover.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=cover.SchDoc|Designator=NODE|SchDesignator=NODE|FileName=node.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=node.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=node.SchDoc|Designator=ETH_DS|SchDesignator=ETH_DS|FileName=ethernet.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=ethernet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=node.SchDoc|Designator=ETH_US|SchDesignator=ETH_US|FileName=ethernet.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=ethernet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=node.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=powersupply.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=powersupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
